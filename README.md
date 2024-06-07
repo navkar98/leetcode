@@ -6,6 +6,7 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/navkar98/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0648-replace-words](https://github.com/navkar98/leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/navkar98/leetcode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/navkar98/leetcode/tree/master/1044-find-common-characters) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/navkar98/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -28,12 +29,14 @@ Collection of LeetCode questions solved by me
 # Hash Table
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/navkar98/leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/navkar98/leetcode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/navkar98/leetcode/tree/master/1044-find-common-characters) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/navkar98/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # String
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/navkar98/leetcode/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/navkar98/leetcode/tree/master/1044-find-common-characters) |
 # Greedy
 |  |
@@ -45,3 +48,7 @@ Collection of LeetCode questions solved by me
 | ------- |
 | [0876-hand-of-straights](https://github.com/navkar98/leetcode/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/navkar98/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+# Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/navkar98/leetcode/tree/master/0648-replace-words) |
