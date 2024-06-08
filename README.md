@@ -6,6 +6,7 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/navkar98/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0523-continuous-subarray-sum](https://github.com/navkar98/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/navkar98/leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/navkar98/leetcode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/navkar98/leetcode/tree/master/1044-find-common-characters) |
@@ -29,6 +30,7 @@ Collection of LeetCode questions solved by me
 # Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/navkar98/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/navkar98/leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/navkar98/leetcode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/navkar98/leetcode/tree/master/1044-find-common-characters) |
@@ -52,3 +54,11 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/navkar98/leetcode/tree/master/0648-replace-words) |
+# Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/navkar98/leetcode/tree/master/0523-continuous-subarray-sum) |
+# Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/navkar98/leetcode/tree/master/0523-continuous-subarray-sum) |
