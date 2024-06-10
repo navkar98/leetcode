@@ -5,6 +5,7 @@ Collection of LeetCode questions solved by me
 # Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/navkar98/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0239-sliding-window-maximum](https://github.com/navkar98/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0523-continuous-subarray-sum](https://github.com/navkar98/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/navkar98/leetcode/tree/master/0648-replace-words) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions solved by me
 # Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/navkar98/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0523-continuous-subarray-sum](https://github.com/navkar98/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/navkar98/leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/navkar98/leetcode/tree/master/0876-hand-of-straights) |
@@ -71,3 +73,15 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/navkar98/leetcode/tree/master/1137-height-checker) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/navkar98/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+# Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/navkar98/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+# Binary Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/navkar98/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
