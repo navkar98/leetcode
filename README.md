@@ -5,6 +5,7 @@ Collection of LeetCode questions solved by me
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/navkar98/leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/navkar98/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0239-sliding-window-maximum](https://github.com/navkar98/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0523-continuous-subarray-sum](https://github.com/navkar98/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions solved by me
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/navkar98/leetcode/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/navkar98/leetcode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/navkar98/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/navkar98/leetcode/tree/master/1217-relative-sort-array) |
@@ -104,3 +106,7 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navkar98/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+# Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/navkar98/leetcode/tree/master/0075-sort-colors) |
