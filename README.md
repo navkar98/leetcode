@@ -11,6 +11,7 @@ Collection of LeetCode questions solved by me
 | [0523-continuous-subarray-sum](https://github.com/navkar98/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/navkar98/leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/navkar98/leetcode/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/navkar98/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/navkar98/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/navkar98/leetcode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/navkar98/leetcode/tree/master/1137-height-checker) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/navkar98/leetcode/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/navkar98/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/navkar98/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/navkar98/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
@@ -61,6 +63,7 @@ Collection of LeetCode questions solved by me
 | ------- |
 | [0075-sort-colors](https://github.com/navkar98/leetcode/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/navkar98/leetcode/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/navkar98/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/navkar98/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/navkar98/leetcode/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/navkar98/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -81,6 +84,7 @@ Collection of LeetCode questions solved by me
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/navkar98/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/navkar98/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/navkar98/leetcode/tree/master/1217-relative-sort-array) |
 # Divide and Conquer
