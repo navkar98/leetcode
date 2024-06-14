@@ -38,6 +38,7 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/navkar98/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0133-clone-graph](https://github.com/navkar98/leetcode/tree/master/0133-clone-graph) |
 | [0523-continuous-subarray-sum](https://github.com/navkar98/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/navkar98/leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/navkar98/leetcode/tree/master/0876-hand-of-straights) |
@@ -104,10 +105,12 @@ Collection of LeetCode questions solved by me
 # Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/navkar98/leetcode/tree/master/0133-clone-graph) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navkar98/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 # Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/navkar98/leetcode/tree/master/0133-clone-graph) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navkar98/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 # Design
 |  |
@@ -117,3 +120,7 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/navkar98/leetcode/tree/master/0075-sort-colors) |
+# Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/navkar98/leetcode/tree/master/0133-clone-graph) |
