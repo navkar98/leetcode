@@ -17,6 +17,7 @@ Collection of LeetCode questions solved by me
 | [1044-find-common-characters](https://github.com/navkar98/leetcode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/navkar98/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/navkar98/leetcode/tree/master/1217-relative-sort-array) |
+| [1343-dice-roll-simulation](https://github.com/navkar98/leetcode/tree/master/1343-dice-roll-simulation) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/navkar98/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/navkar98/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Queue
@@ -128,3 +129,7 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/navkar98/leetcode/tree/master/0133-clone-graph) |
+# Dynamic Programming
+|  |
+| ------- |
+| [1343-dice-roll-simulation](https://github.com/navkar98/leetcode/tree/master/1343-dice-roll-simulation) |
