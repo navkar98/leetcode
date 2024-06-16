@@ -8,6 +8,7 @@ Collection of LeetCode questions solved by me
 | [0075-sort-colors](https://github.com/navkar98/leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/navkar98/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0239-sliding-window-maximum](https://github.com/navkar98/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0330-patching-array](https://github.com/navkar98/leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/navkar98/leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/navkar98/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/navkar98/leetcode/tree/master/0648-replace-words) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions solved by me
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/navkar98/leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/navkar98/leetcode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/navkar98/leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/navkar98/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
