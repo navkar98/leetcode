@@ -15,6 +15,7 @@ Collection of LeetCode questions solved by me
 | [0876-hand-of-straights](https://github.com/navkar98/leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/navkar98/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/navkar98/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1036-rotting-oranges](https://github.com/navkar98/leetcode/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/navkar98/leetcode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/navkar98/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/navkar98/leetcode/tree/master/1217-relative-sort-array) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions solved by me
 | ------- |
 | [0133-clone-graph](https://github.com/navkar98/leetcode/tree/master/0133-clone-graph) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navkar98/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1036-rotting-oranges](https://github.com/navkar98/leetcode/tree/master/1036-rotting-oranges) |
 # Design
 |  |
 | ------- |
@@ -141,3 +143,7 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/navkar98/leetcode/tree/master/0633-sum-of-square-numbers) |
+# Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/navkar98/leetcode/tree/master/1036-rotting-oranges) |
