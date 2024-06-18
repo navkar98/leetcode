@@ -12,6 +12,7 @@ Collection of LeetCode questions solved by me
 | [0502-ipo](https://github.com/navkar98/leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/navkar98/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/navkar98/leetcode/tree/master/0648-replace-words) |
+| [0794-swim-in-rising-water](https://github.com/navkar98/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/navkar98/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/navkar98/leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/navkar98/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions solved by me
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/navkar98/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0502-ipo](https://github.com/navkar98/leetcode/tree/master/0502-ipo) |
+| [0794-swim-in-rising-water](https://github.com/navkar98/leetcode/tree/master/0794-swim-in-rising-water) |
 # Monotonic Queue
 |  |
 | ------- |
@@ -125,11 +127,13 @@ Collection of LeetCode questions solved by me
 | ------- |
 | [0133-clone-graph](https://github.com/navkar98/leetcode/tree/master/0133-clone-graph) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navkar98/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0794-swim-in-rising-water](https://github.com/navkar98/leetcode/tree/master/0794-swim-in-rising-water) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/navkar98/leetcode/tree/master/0133-clone-graph) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navkar98/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0794-swim-in-rising-water](https://github.com/navkar98/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/navkar98/leetcode/tree/master/1036-rotting-oranges) |
 # Design
 |  |
@@ -154,8 +158,14 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/navkar98/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0794-swim-in-rising-water](https://github.com/navkar98/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/navkar98/leetcode/tree/master/0853-most-profit-assigning-work) |
 # Matrix
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/navkar98/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/navkar98/leetcode/tree/master/1036-rotting-oranges) |
+# Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/navkar98/leetcode/tree/master/0794-swim-in-rising-water) |
