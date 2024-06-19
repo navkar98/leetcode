@@ -24,6 +24,7 @@ Collection of LeetCode questions solved by me
 | [1343-dice-roll-simulation](https://github.com/navkar98/leetcode/tree/master/1343-dice-roll-simulation) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/navkar98/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/navkar98/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/navkar98/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/navkar98/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Queue
 |  |
@@ -160,6 +161,7 @@ Collection of LeetCode questions solved by me
 | [0633-sum-of-square-numbers](https://github.com/navkar98/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0794-swim-in-rising-water](https://github.com/navkar98/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/navkar98/leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/navkar98/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Matrix
 |  |
 | ------- |
