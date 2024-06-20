@@ -25,6 +25,7 @@ Collection of LeetCode questions solved by me
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/navkar98/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/navkar98/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/navkar98/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/navkar98/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/navkar98/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Queue
 |  |
@@ -87,6 +88,7 @@ Collection of LeetCode questions solved by me
 | [1137-height-checker](https://github.com/navkar98/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/navkar98/leetcode/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/navkar98/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1675-magnetic-force-between-two-balls](https://github.com/navkar98/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/navkar98/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
 |  |
@@ -162,6 +164,7 @@ Collection of LeetCode questions solved by me
 | [0794-swim-in-rising-water](https://github.com/navkar98/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/navkar98/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/navkar98/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/navkar98/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Matrix
 |  |
 | ------- |
