@@ -20,6 +20,7 @@ Collection of LeetCode questions solved by me
 | [1036-rotting-oranges](https://github.com/navkar98/leetcode/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/navkar98/leetcode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/navkar98/leetcode/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/navkar98/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/navkar98/leetcode/tree/master/1217-relative-sort-array) |
 | [1343-dice-roll-simulation](https://github.com/navkar98/leetcode/tree/master/1343-dice-roll-simulation) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/navkar98/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/navkar98/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1138-grumpy-bookstore-owner](https://github.com/navkar98/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/navkar98/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 # Heap (Priority Queue)
 |  |
