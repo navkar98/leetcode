@@ -130,6 +130,7 @@ Collection of LeetCode questions solved by me
 | ------- |
 | [0133-clone-graph](https://github.com/navkar98/leetcode/tree/master/0133-clone-graph) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navkar98/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/navkar98/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0794-swim-in-rising-water](https://github.com/navkar98/leetcode/tree/master/0794-swim-in-rising-water) |
 # Breadth-First Search
 |  |
@@ -153,6 +154,7 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/navkar98/leetcode/tree/master/0133-clone-graph) |
+| [0332-reconstruct-itinerary](https://github.com/navkar98/leetcode/tree/master/0332-reconstruct-itinerary) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -174,3 +176,7 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/navkar98/leetcode/tree/master/0794-swim-in-rising-water) |
+# Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/navkar98/leetcode/tree/master/0332-reconstruct-itinerary) |
