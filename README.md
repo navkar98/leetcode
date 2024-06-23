@@ -26,6 +26,7 @@ Collection of LeetCode questions solved by me
 | [1370-count-number-of-nice-subarrays](https://github.com/navkar98/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/navkar98/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/navkar98/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/navkar98/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/navkar98/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/navkar98/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/navkar98/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/navkar98/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/navkar98/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Sliding Window
 |  |
 | ------- |
@@ -40,16 +42,19 @@ Collection of LeetCode questions solved by me
 | [1138-grumpy-bookstore-owner](https://github.com/navkar98/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/navkar98/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/navkar98/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/navkar98/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/navkar98/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0502-ipo](https://github.com/navkar98/leetcode/tree/master/0502-ipo) |
 | [0794-swim-in-rising-water](https://github.com/navkar98/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/navkar98/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/navkar98/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/navkar98/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Hash Table
 |  |
 | ------- |
@@ -186,3 +191,7 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/navkar98/leetcode/tree/master/0332-reconstruct-itinerary) |
+# Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/navkar98/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
