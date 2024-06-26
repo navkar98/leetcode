@@ -88,6 +88,7 @@ Collection of LeetCode questions solved by me
 | [0853-most-profit-assigning-work](https://github.com/navkar98/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/navkar98/leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/navkar98/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/navkar98/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/navkar98/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/navkar98/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
@@ -130,18 +131,21 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/navkar98/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/navkar98/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/navkar98/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navkar98/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/navkar98/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/navkar98/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/navkar98/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navkar98/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/navkar98/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/navkar98/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
@@ -150,6 +154,7 @@ Collection of LeetCode questions solved by me
 | [0332-reconstruct-itinerary](https://github.com/navkar98/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0794-swim-in-rising-water](https://github.com/navkar98/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/navkar98/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/navkar98/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -210,3 +215,4 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/navkar98/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/navkar98/leetcode/tree/master/1285-balance-a-binary-search-tree) |
