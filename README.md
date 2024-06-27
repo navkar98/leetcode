@@ -178,6 +178,7 @@ Collection of LeetCode questions solved by me
 | ------- |
 | [0133-clone-graph](https://github.com/navkar98/leetcode/tree/master/0133-clone-graph) |
 | [0332-reconstruct-itinerary](https://github.com/navkar98/leetcode/tree/master/0332-reconstruct-itinerary) |
+| [1916-find-center-of-star-graph](https://github.com/navkar98/leetcode/tree/master/1916-find-center-of-star-graph) |
 # Dynamic Programming
 |  |
 | ------- |
