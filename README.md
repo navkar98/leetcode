@@ -30,6 +30,7 @@ Collection of LeetCode questions solved by me
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/navkar98/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/navkar98/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/navkar98/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/navkar98/leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/navkar98/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Queue
 |  |
@@ -90,6 +91,7 @@ Collection of LeetCode questions solved by me
 | [0982-minimum-increment-to-make-array-unique](https://github.com/navkar98/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/navkar98/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/navkar98/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/navkar98/leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/navkar98/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
