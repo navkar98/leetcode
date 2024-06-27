@@ -5,6 +5,7 @@ Collection of LeetCode questions solved by me
 # Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/navkar98/leetcode/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/navkar98/leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/navkar98/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0239-sliding-window-maximum](https://github.com/navkar98/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions solved by me
 # Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/navkar98/leetcode/tree/master/0045-jump-game-ii) |
 | [0330-patching-array](https://github.com/navkar98/leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/navkar98/leetcode/tree/master/0502-ipo) |
 | [0768-partition-labels](https://github.com/navkar98/leetcode/tree/master/0768-partition-labels) |
@@ -184,6 +186,7 @@ Collection of LeetCode questions solved by me
 # Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/navkar98/leetcode/tree/master/0045-jump-game-ii) |
 | [1343-dice-roll-simulation](https://github.com/navkar98/leetcode/tree/master/1343-dice-roll-simulation) |
 # Binary Search
 |  |
