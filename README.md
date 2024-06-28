@@ -235,6 +235,7 @@ Collection of LeetCode questions solved by me
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/navkar98/leetcode/tree/master/0268-missing-number) |
 | [2379-maximum-total-importance-of-roads](https://github.com/navkar98/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -247,5 +248,22 @@ Collection of LeetCode questions solved by me
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/navkar98/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/navkar98/leetcode/tree/master/0338-counting-bits) |
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/navkar98/leetcode/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/navkar98/leetcode/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/navkar98/leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/navkar98/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
