@@ -240,4 +240,12 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/navkar98/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/navkar98/leetcode/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/navkar98/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
