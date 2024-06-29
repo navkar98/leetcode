@@ -8,7 +8,6 @@ class Solution:
             ancestors[v].append(u)
 
         visited = set()
-        print(ancestors)
         
         @cache
         def dfs(node):
@@ -19,9 +18,6 @@ class Solution:
             for i in ancestors[node]:                
                 anc.append(i)
                 anc.extend(dfs(i))
-
-                # if i not in visited:
-                #     visited.add(i)
 
             return list(sorted(set(anc)))
 
