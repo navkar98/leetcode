@@ -257,6 +257,7 @@ Collection of LeetCode questions solved by me
 | ------- |
 | [0057-insert-interval](https://github.com/navkar98/leetcode/tree/master/0057-insert-interval) |
 | [0268-missing-number](https://github.com/navkar98/leetcode/tree/master/0268-missing-number) |
+| [1293-three-consecutive-odds](https://github.com/navkar98/leetcode/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
 | ------- |
