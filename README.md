@@ -255,6 +255,7 @@ Collection of LeetCode questions solved by me
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/navkar98/leetcode/tree/master/0057-insert-interval) |
 | [0268-missing-number](https://github.com/navkar98/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
