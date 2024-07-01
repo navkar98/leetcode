@@ -227,6 +227,7 @@ Collection of LeetCode questions solved by me
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/navkar98/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [2379-maximum-total-importance-of-roads](https://github.com/navkar98/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
@@ -238,6 +239,7 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/navkar98/leetcode/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/navkar98/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [2379-maximum-total-importance-of-roads](https://github.com/navkar98/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -247,6 +249,7 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/navkar98/leetcode/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/navkar98/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -257,6 +260,7 @@ Collection of LeetCode questions solved by me
 | ------- |
 | [0057-insert-interval](https://github.com/navkar98/leetcode/tree/master/0057-insert-interval) |
 | [0268-missing-number](https://github.com/navkar98/leetcode/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/navkar98/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1293-three-consecutive-odds](https://github.com/navkar98/leetcode/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
