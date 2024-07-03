@@ -233,6 +233,7 @@ Collection of LeetCode questions solved by me
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/navkar98/leetcode/tree/master/0744-network-delay-time) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/navkar98/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/navkar98/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/navkar98/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -247,6 +248,7 @@ Collection of LeetCode questions solved by me
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/navkar98/leetcode/tree/master/0744-network-delay-time) |
 | [2379-maximum-total-importance-of-roads](https://github.com/navkar98/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Dynamic Programming
 |  |
@@ -284,10 +286,12 @@ Collection of LeetCode questions solved by me
 ## Depth-First Search
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/navkar98/leetcode/tree/master/0744-network-delay-time) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/navkar98/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/navkar98/leetcode/tree/master/0744-network-delay-time) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/navkar98/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
@@ -301,4 +305,8 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navkar98/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/navkar98/leetcode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
