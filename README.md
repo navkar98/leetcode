@@ -228,6 +228,7 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/navkar98/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/navkar98/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/navkar98/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
@@ -241,6 +242,7 @@ Collection of LeetCode questions solved by me
 | [0268-missing-number](https://github.com/navkar98/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navkar98/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/navkar98/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/navkar98/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/navkar98/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -264,6 +266,7 @@ Collection of LeetCode questions solved by me
 | [0350-intersection-of-two-arrays-ii](https://github.com/navkar98/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/navkar98/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1293-three-consecutive-odds](https://github.com/navkar98/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/navkar98/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
 | ------- |
