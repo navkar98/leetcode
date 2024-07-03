@@ -277,6 +277,7 @@ Collection of LeetCode questions solved by me
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/navkar98/leetcode/tree/master/0043-multiply-strings) |
 | [0268-missing-number](https://github.com/navkar98/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -309,4 +310,12 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/navkar98/leetcode/tree/master/0744-network-delay-time) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/navkar98/leetcode/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/navkar98/leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
