@@ -318,4 +318,9 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/navkar98/leetcode/tree/master/0043-multiply-strings) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/navkar98/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/navkar98/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
