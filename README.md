@@ -255,6 +255,7 @@ Collection of LeetCode questions solved by me
 | ------- |
 | [0338-counting-bits](https://github.com/navkar98/leetcode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/navkar98/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/navkar98/leetcode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -267,6 +268,7 @@ Collection of LeetCode questions solved by me
 | [0268-missing-number](https://github.com/navkar98/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navkar98/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/navkar98/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/navkar98/leetcode/tree/master/0494-target-sum) |
 | [1293-three-consecutive-odds](https://github.com/navkar98/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/navkar98/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
@@ -324,4 +326,8 @@ Collection of LeetCode questions solved by me
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/navkar98/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/navkar98/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/navkar98/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
