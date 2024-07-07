@@ -281,6 +281,7 @@ Collection of LeetCode questions solved by me
 | ------- |
 | [0043-multiply-strings](https://github.com/navkar98/leetcode/tree/master/0043-multiply-strings) |
 | [0268-missing-number](https://github.com/navkar98/leetcode/tree/master/0268-missing-number) |
+| [1642-water-bottles](https://github.com/navkar98/leetcode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/navkar98/leetcode/tree/master/2645-pass-the-pillow) |
 ## Binary Search
 |  |
@@ -321,6 +322,7 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/navkar98/leetcode/tree/master/0043-multiply-strings) |
+| [1642-water-bottles](https://github.com/navkar98/leetcode/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/navkar98/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/navkar98/leetcode/tree/master/2645-pass-the-pillow) |
 ## Linked List
