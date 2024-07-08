@@ -271,6 +271,7 @@ Collection of LeetCode questions solved by me
 | [0494-target-sum](https://github.com/navkar98/leetcode/tree/master/0494-target-sum) |
 | [1293-three-consecutive-odds](https://github.com/navkar98/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/navkar98/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/navkar98/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -282,6 +283,7 @@ Collection of LeetCode questions solved by me
 | [0043-multiply-strings](https://github.com/navkar98/leetcode/tree/master/0043-multiply-strings) |
 | [0268-missing-number](https://github.com/navkar98/leetcode/tree/master/0268-missing-number) |
 | [1642-water-bottles](https://github.com/navkar98/leetcode/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/navkar98/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/navkar98/leetcode/tree/master/2645-pass-the-pillow) |
 ## Binary Search
 |  |
@@ -323,6 +325,7 @@ Collection of LeetCode questions solved by me
 | ------- |
 | [0043-multiply-strings](https://github.com/navkar98/leetcode/tree/master/0043-multiply-strings) |
 | [1642-water-bottles](https://github.com/navkar98/leetcode/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/navkar98/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/navkar98/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/navkar98/leetcode/tree/master/2645-pass-the-pillow) |
 ## Linked List
@@ -334,4 +337,12 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/navkar98/leetcode/tree/master/0494-target-sum) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/navkar98/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/navkar98/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
