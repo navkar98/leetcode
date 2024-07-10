@@ -271,6 +271,7 @@ Collection of LeetCode questions solved by me
 | [0494-target-sum](https://github.com/navkar98/leetcode/tree/master/0494-target-sum) |
 | [1293-three-consecutive-odds](https://github.com/navkar98/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/navkar98/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/navkar98/leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/navkar98/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/navkar98/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
@@ -321,6 +322,7 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/navkar98/leetcode/tree/master/0043-multiply-strings) |
+| [1720-crawler-log-folder](https://github.com/navkar98/leetcode/tree/master/1720-crawler-log-folder) |
 ## Simulation
 |  |
 | ------- |
@@ -347,4 +349,8 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/navkar98/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/navkar98/leetcode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
