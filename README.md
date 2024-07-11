@@ -322,6 +322,7 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/navkar98/leetcode/tree/master/0043-multiply-strings) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/navkar98/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/navkar98/leetcode/tree/master/1720-crawler-log-folder) |
 ## Simulation
 |  |
@@ -352,5 +353,6 @@ Collection of LeetCode questions solved by me
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/navkar98/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/navkar98/leetcode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
