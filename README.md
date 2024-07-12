@@ -229,6 +229,7 @@ Collection of LeetCode questions solved by me
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/navkar98/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/navkar98/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/navkar98/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/navkar98/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
@@ -324,6 +325,7 @@ Collection of LeetCode questions solved by me
 | [0043-multiply-strings](https://github.com/navkar98/leetcode/tree/master/0043-multiply-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/navkar98/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/navkar98/leetcode/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/navkar98/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -355,4 +357,5 @@ Collection of LeetCode questions solved by me
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/navkar98/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/navkar98/leetcode/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/navkar98/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
