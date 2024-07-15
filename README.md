@@ -282,6 +282,7 @@ Collection of LeetCode questions solved by me
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/navkar98/leetcode/tree/master/0127-word-ladder) |
 | [0268-missing-number](https://github.com/navkar98/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navkar98/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/navkar98/leetcode/tree/master/0726-number-of-atoms) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions solved by me
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/navkar98/leetcode/tree/master/0127-word-ladder) |
 | [0744-network-delay-time](https://github.com/navkar98/leetcode/tree/master/0744-network-delay-time) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/navkar98/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
@@ -329,6 +331,7 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/navkar98/leetcode/tree/master/0043-multiply-strings) |
+| [0127-word-ladder](https://github.com/navkar98/leetcode/tree/master/0127-word-ladder) |
 | [0726-number-of-atoms](https://github.com/navkar98/leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/navkar98/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/navkar98/leetcode/tree/master/1720-crawler-log-folder) |
