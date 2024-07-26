@@ -237,6 +237,7 @@ Collection of LeetCode questions solved by me
 | ------- |
 | [0744-network-delay-time](https://github.com/navkar98/leetcode/tree/master/0744-network-delay-time) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/navkar98/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/navkar98/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/navkar98/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/navkar98/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/navkar98/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions solved by me
 | [0338-counting-bits](https://github.com/navkar98/leetcode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/navkar98/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/navkar98/leetcode/tree/master/0494-target-sum) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/navkar98/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -349,6 +351,7 @@ Collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/navkar98/leetcode/tree/master/0744-network-delay-time) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/navkar98/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## String
 |  |
 | ------- |
