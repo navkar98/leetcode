@@ -18,18 +18,10 @@ class Solution:
                 curr_cost, curr_node = heapq.heappop(heap)
 
                 for t in adj[curr_node]:
-                    # Add path from root node to curr_node if cost is lower or NA
                     if t not in curr_paths or (t in curr_paths and curr_paths[t] > curr_cost + adj[curr_node][t]):
                         curr_paths[t] = curr_cost + adj[curr_node][t]
-                        # if t in paths:
-                        #     for tt in paths[t]:
-                        #         curr_sub_cost = curr_cost + paths[t][tt]
-                        #         if tt not in curr_paths or (tt in curr_paths and curr_paths[tt] > curr_sub_cost):
-                        #             curr_paths[tt] = curr_sub_cost
-                        # else:
                         heapq.heappush(heap, (curr_cost + adj[curr_node][t], t))
             
-            # print(node, curr_paths)
             return curr_paths
 
         for i in set(original):
